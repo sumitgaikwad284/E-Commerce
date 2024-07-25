@@ -1,6 +1,6 @@
 # E-commerce Microservices Application
 
-This is a Spring Boot-based e-commerce application consisting of three microservices: Cart, Product, and User. The application uses JWT (JSON Web Token) for authentication and authorization.
+This is a Spring Boot-based e-commerce application consisting of three microservices: Cart, Product, and User.  
 
 ## Table of Contents
 - [Architecture](#architecture)
